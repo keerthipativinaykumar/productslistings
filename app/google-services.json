@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433346838692",
+    "firebase_url": "https://vinayblogapp.firebaseio.com",
+    "project_id": "vinayblogapp",
+    "storage_bucket": "vinayblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433346838692:android:3a8ef1e1282c2569126631",
+        "android_client_info": {
+          "package_name": "com.example.vinayndrd.vinayblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433346838692-3ngd1i222b8gn9ov25igpnr8vjrp6oqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinayndrd.vinayblogapp",
+            "certificate_hash": "639ad62670e1b020e4964dcf4cd161b919d1a97b"
+          }
+        },
+        {
+          "client_id": "433346838692-mjc2pafudc1359lct7tmgkog7ucs7ktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_r_E_n-5YYaXR_YB8VYbR6rLziVk81U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433346838692-mjc2pafudc1359lct7tmgkog7ucs7ktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
